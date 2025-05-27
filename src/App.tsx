@@ -90,13 +90,6 @@ function App() {
           </motion.div>
         )}
       </AnimatePresence>
-
-      <div className="instructions">
-        <p>👆 Click on the console buttons to navigate</p>
-        <p>🖱️ Drag to rotate view</p>
-        <p>🔍 Pinch or scroll to zoom</p>
-      </div>
-    </div>
   );
 }
 
